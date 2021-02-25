@@ -1,3 +1,6 @@
+*similar projects*
+- [HTML to pdf](https://github.com/spipu/html2pdf)
+- [PDF-maker](https://github.com/10uei011/pdf-maker)
 wkhtmltopdf and wkhtmltoimage
 -----------------------------
 
